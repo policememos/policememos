@@ -1,7 +1,7 @@
  # 👋 Hi, my dear friend 👋 
 
- 🤖 I'm creating bots for _Telegram_ app <br/>
- 🐍 Learning python 
+ 🤖 I'm creating bots for _Telegram app_ <br/>
+ 🐍 A bit _Web-development_
 
 <!---
 policememos/policememos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
